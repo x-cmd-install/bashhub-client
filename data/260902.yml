@@ -1,0 +1,57 @@
+about:
+  description: :cloud: Bash history in the cloud. Indexed and searchable. 
+  license: Apache-2.0
+  homepage: https://bashhub.com
+  head: 0c3cab4
+  archived: false
+  latestVersion: 3.2.0
+  collectedAt: 2026-09-02T04:11:00Z
+timeline:
+  created: 2013-09-16
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-30
+popularity:
+  star: 1306
+  watcher: 28
+  fork: 87
+  release: 47
+  contributor: 13
+  pullRequest: 11
+  issue: 103
+language:
+  Python: 110362
+  Shell: 60020
+totalLine: 170382
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 5
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 22
+  last90d:
+    since: 2026-06-04
+    release: 5
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 22
+  last180d:
+    since: 2026-03-06
+    release: 8
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 53
+  last360d:
+    since: 2025-09-07
+    release: 9
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 68
