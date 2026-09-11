@@ -7,7 +7,7 @@ about:
   latestVersion: "3.2.0"
   latestRelease: "3.2.0"
   latestPrerelease: "3.1.0rc4"
-  collectedAt: 2026-09-11T05:48:32Z
+  collectedAt: 2026-09-11T19:12:32Z
 timeline:
   created: 2013-09-16
   lastCommit: 2026-08-30
@@ -84,7 +84,7 @@ total:
   commit: 528
 ---
 path: /home/runner/.x-repo/github.com/rcaloras/bashhub-client
-collectedAt: 2026-09-11T05:48:33Z
+collectedAt: 2026-09-11T19:12:33Z
 loc:
   Python:
     code: 2383
