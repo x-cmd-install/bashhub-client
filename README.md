@@ -4,7 +4,7 @@
 
 :cloud: Bash history in the cloud. Indexed and searchable. 
 
-[![x-cmd/install — bashhub-client Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bashhub-client.svg)](https://x-cmd.com/install/bashhub-client)
+[![x-cmd/install — bashhub-client Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bashhub-client.svg)](https://x-cmd.com/install/bashhub-client)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 7 | 0 | 0 | 0 | 16 |
-| last60d | 2026-07-24 | 5 | 7 | 0 | 0 | 0 | 22 |
-| 90d | 2026-06-24 | 5 | 7 | 0 | 0 | 0 | 22 |
-| last180d | 2026-03-26 | 7 | 9 | 0 | 0 | 0 | 49 |
-| 360d | 2025-09-27 | 9 | 15 | 0 | 0 | 0 | 68 |
-| last720d | 2024-10-02 | 9 | 16 | 0 | 1 | 0 | 71 |
+| 30d | 2026-08-24 | 5 | 7 | 0 | 0 | 0 | 16 |
+| last60d | 2026-07-25 | 5 | 7 | 0 | 0 | 0 | 22 |
+| 90d | 2026-06-25 | 5 | 7 | 0 | 0 | 0 | 22 |
+| last180d | 2026-03-27 | 7 | 9 | 0 | 0 | 0 | 49 |
+| 360d | 2025-09-28 | 9 | 15 | 0 | 0 | 0 | 68 |
+| last720d | 2024-10-03 | 9 | 16 | 0 | 1 | 0 | 71 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for bashhub-client lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:02:13Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:05:17Z._
