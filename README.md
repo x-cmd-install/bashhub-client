@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-11 | 5 | 8 | 0 | 0 | 0 | 23 |
-| 90d | 2026-07-12 | 5 | 8 | 0 | 0 | 0 | 23 |
-| last180d | 2026-04-13 | 6 | 9 | 0 | 0 | 0 | 36 |
-| 360d | 2025-10-15 | 9 | 16 | 0 | 0 | 0 | 69 |
-| last720d | 2024-10-20 | 9 | 17 | 0 | 1 | 0 | 72 |
+| 30d | 2026-09-11 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-12 | 5 | 8 | 0 | 0 | 0 | 23 |
+| 90d | 2026-07-13 | 5 | 8 | 0 | 0 | 0 | 23 |
+| last180d | 2026-04-14 | 6 | 9 | 0 | 0 | 0 | 23 |
+| 360d | 2025-10-16 | 9 | 16 | 0 | 0 | 0 | 69 |
+| last720d | 2024-10-21 | 9 | 17 | 0 | 1 | 0 | 72 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for bashhub-client lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:39:20Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:35:34Z._
