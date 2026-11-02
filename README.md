@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,312 · **Forks**: 85 · **Open issues**: 103 · **Contributors**: 13
+- **Stars**: 1,311 · **Forks**: 85 · **Open issues**: 103 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-03 | 5 | 8 | 1 | 0 | 0 | 23 |
-| last180d | 2026-05-05 | 5 | 8 | 1 | 0 | 0 | 23 |
-| 360d | 2025-11-06 | 9 | 16 | 1 | 0 | 0 | 69 |
-| last720d | 2024-11-11 | 9 | 17 | 1 | 1 | 0 | 72 |
+| 30d | 2026-10-03 | 0 | 1 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-04 | 5 | 8 | 1 | 0 | 0 | 23 |
+| last180d | 2026-05-06 | 5 | 8 | 1 | 0 | 0 | 23 |
+| 360d | 2025-11-07 | 9 | 16 | 1 | 0 | 0 | 69 |
+| last720d | 2024-11-12 | 9 | 17 | 1 | 1 | 0 | 72 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for bashhub-client lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:03:53Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:59:57Z._
