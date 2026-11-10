@@ -24,16 +24,6 @@ x install bashhub-client
 | Fish | 84 | 25 | 23 | 2 |
 | Toml | 74 | 2 | 13 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.2 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/rcaloras/bashhub-client>
@@ -57,12 +47,12 @@ x install bashhub-client
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-11 | 5 | 8 | 1 | 0 | 0 | 23 |
-| last180d | 2026-05-13 | 5 | 8 | 1 | 0 | 0 | 23 |
-| 360d | 2025-11-14 | 9 | 16 | 1 | 0 | 0 | 69 |
-| last720d | 2024-11-19 | 9 | 17 | 1 | 1 | 0 | 72 |
+| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-12 | 5 | 8 | 1 | 0 | 0 | 23 |
+| last180d | 2026-05-14 | 5 | 8 | 1 | 0 | 0 | 23 |
+| 360d | 2025-11-15 | 9 | 16 | 1 | 0 | 0 | 69 |
+| last720d | 2024-11-20 | 9 | 17 | 1 | 1 | 0 | 72 |
 
 ## 改进这些数据
 
@@ -73,4 +63,4 @@ bashhub-client 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:31:02Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:26:21Z._
