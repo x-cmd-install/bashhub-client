@@ -37,22 +37,22 @@ Total: **3,423** lines of code across **40** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,311 · **Forks**: 85 · **Open issues**: 103 · **Contributors**: 13
+- **Stars**: 1,311 · **Forks**: 86 · **Open issues**: 103 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 48 · **Open PRs**: 1 · **Closed issues**: 79 · **Open issues**: 24 · **Commits**: 529
+- **Releases**: 47 · **Merged PRs**: 48 · **Open PRs**: 2 · **Closed issues**: 79 · **Open issues**: 24 · **Commits**: 529
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-12 | 5 | 8 | 1 | 0 | 0 | 23 |
-| last180d | 2026-05-14 | 5 | 8 | 1 | 0 | 0 | 23 |
-| 360d | 2025-11-15 | 9 | 16 | 1 | 0 | 0 | 69 |
-| last720d | 2024-11-20 | 9 | 17 | 1 | 1 | 0 | 72 |
+| 30d | 2026-10-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-08-13 | 5 | 8 | 2 | 0 | 0 | 23 |
+| last180d | 2026-05-15 | 5 | 8 | 2 | 0 | 0 | 23 |
+| 360d | 2025-11-16 | 9 | 16 | 2 | 0 | 0 | 69 |
+| last720d | 2024-11-21 | 9 | 17 | 2 | 1 | 0 | 72 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for bashhub-client lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:26:20Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:14:42Z._
